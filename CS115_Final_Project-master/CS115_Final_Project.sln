@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicioso_E-Ristorante_Menu", "Delicioso_E-Ristorante_Menu\Delicioso_E-Ristorante_Menu.csproj", "{4BA30458-ED10-4B3E-AC22-4E5D50AC4E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA30458-ED10-4B3E-AC22-4E5D50AC4E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA30458-ED10-4B3E-AC22-4E5D50AC4E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA30458-ED10-4B3E-AC22-4E5D50AC4E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA30458-ED10-4B3E-AC22-4E5D50AC4E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC96EB94-919F-454C-A1F7-DA047AAD0ED5}
+	EndGlobalSection
+EndGlobal
